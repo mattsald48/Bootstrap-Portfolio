@@ -4,4 +4,4 @@ A basic portfolio made to get familiar with Bootstrap and its responsive grid sy
 
 A Nav bar leads to different parts of the site and the links in the side bar lead to my Github, LinkedIn, and Stack Overflow profiles.
 
-![Bootstrap Portfolio](./assets/images/BootstrapPort.gif)
+![Bootstrap Portfolio](./assets/BootstrapPort.gif)
